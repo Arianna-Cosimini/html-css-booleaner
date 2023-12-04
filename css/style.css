@@ -6,9 +6,7 @@ body{
       position: relative;
       width: 100%;
       height:50%; 
-      background-color:darkcyan ;
-      display: flex;
-      background-image: url('../img/pattern.png');
+      background-color:darkcyan ;      background-image: url('../img/pattern.png');
       background-size:contain;
       background-position:bottom center;
       
@@ -16,9 +14,10 @@ body{
 
 
 .logo{
-    width: 110px;
-    height: 110px;
+    width: 150px;
+    height: 150px;
     position: relative;
+    margin-left: 10%;
 }
 
 #hero{
@@ -98,3 +97,15 @@ h3{
     color: darkgray;
 }
 
+
+.container {
+    position: relative;
+    text-align: center;
+    float: left;
+    color: white;
+   }
+   .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+   }
