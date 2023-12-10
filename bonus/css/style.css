@@ -8,6 +8,11 @@ nav{
       
 }
 
+#nav-logo{
+   width: 80%;
+   margin: auto;
+}
+
 
 .logo{
     width: 160px;
@@ -15,6 +20,11 @@ nav{
     margin-top: 24px;
     margin-bottom: 10px;
     margin-left: 6px;
+}
+
+#main{
+   width: 80%;
+   margin: auto;
 }
 
 h1 {
